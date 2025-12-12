@@ -26,7 +26,7 @@ Aquí es donde se desarrolla todo el gameplay:
 
 - Aparecen **verduras aleatorias** moviéndose por la pantalla.
 - Si el jugador **acierta**, suma **+1 punto** y la verdura se convierte en una **mancha del color** del puño elegido.
-- Si falla, **pierde una vida**.
+- Si falla, y por tanto no da a ninguna verdura, **pierde una vida**.
 - Al quedarse sin vidas, el jugador **pierde** y pasa automáticamente a la pantalla final.
 
 ---
