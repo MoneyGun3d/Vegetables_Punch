@@ -1,4 +1,4 @@
-# 🎮 Mi App: Videojuego Multiventana (ES/EN)
+# 🎮 Mi App: Vegetables_Punch (ES/EN)
 
 Este proyecto es un **videojuego para Android** que cuenta con **4 ventanas principales**, disponible en **Español e Inglés**.  
 A continuación se describe el funcionamiento de cada una de ellas:
