@@ -7,6 +7,8 @@ El juego está disponible en **dos idiomas**:
 - 🇪🇸 Español  
 - 🇬🇧 Inglés  
 
+El juego tiene música propia a la hora de jugar
+
 El objetivo principal es **ganar la mayor cantidad de puntos posible** golpeando verduras que aparecen en pantalla, evitando los errores que te harán perder vidas.
 
 ---
